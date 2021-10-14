@@ -25,11 +25,14 @@ In using a VCS, your organization will be able to communicate and better manage 
 * Select appropriate "branch" you are working from `git checkout -b "DEV_BRANCH"`
 * Push the committed changes to your branch in the online project repo (ex GitHub) `git push origin "DEV_BRANCH"`
 <br /> 
+
+**Example of a file version history**
 <br /> 
-**Example of a file in the Main Branch of the project repository**
+
+
 <br />
-<br />
-![VersionHistory](https://user-images.githubusercontent.com/90650872/137339291-35bf3da3-f989-45e1-b91c-5fa5539b6e82.png)
+
+![VersionHistory](https://user-images.githubusercontent.com/90650872/137341752-74e917b7-ce49-45dc-a9d8-3dd7d9ac9775.png)
 
 ## Importing Caylent's Github resources to terraform state
 Please refer to [Caylent's Github organization README](https://github.com/caylent/caylent_github/blob/master/README.md) 
