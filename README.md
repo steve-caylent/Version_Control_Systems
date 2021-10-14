@@ -2,7 +2,7 @@
 This page covers why using a Version Control System (VCS) is beneficial to your organization. This is demonstrated by using Git. GitHub will be used as an online hosting service for managing Git repositories.
 ## What is a Version Control System (VCS)
 A VCS is a centralized source for storing files that helps to categorize and record file changes. This is done by tracking all code modifications through "commits" (committed changes to your file) in a file repository (repo). A repo contains all of the changes and historical versions of a project. By centralizing your source code it's easier to collaborate with team members who may or may not be in different locations.
-In using a VCS, your organization will be able to communicate and better manage all file changes - showing information on who made the file change and when it occured. Individuals can make file contributions in different "branches" that are separate from the main source code. This allows for changes to be properly assessed as well as organzied before committing major changes to files.
+In using a VCS, your organization will be able to communicate and better manage all file changes - showing information on who made the file change and when it occured. Individuals can make file contributions in different "branches" that are separate from the main source code. This allows for a proper assessment to occur before major changes are applied to the file.
 <br /> 
 <br /> 
 **Example of a file in the Main Branch of the project repository**
